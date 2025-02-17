@@ -1,2 +1,2 @@
 # TabCloser
-Algorithm to odlechčit browsers tabs and manage them 
+Algorithm to relief browsers tabs and manage them 
